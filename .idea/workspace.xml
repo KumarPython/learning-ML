@@ -33,8 +33,8 @@
       <recent name="D:\GitHub\learning-ML\Kaggle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9. DecisionTree">
-    <configuration name="6. DummyVariables&amp;OneHotEncoder" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.10.SupportVectorMachinesSVM">
+    <configuration name="10.SupportVectorMachinesSVM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,11 +42,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeBasics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\GitHub\learning-ML\6. DummyVariables&amp;OneHotEncoder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/10.SupportVectorMachinesSVM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9. DecisionTree" />
+        <item itemvalue="Python.10.SupportVectorMachinesSVM" />
         <item itemvalue="Python.8.MultiClassLogisticRegression" />
+        <item itemvalue="Python.9. DecisionTree" />
         <item itemvalue="Python.8. LogisticRegression" />
         <item itemvalue="Python.7. Train_Test_Split" />
-        <item itemvalue="Python.6. DummyVariables&amp;OneHotEncoder" />
       </list>
     </recent_temporary>
   </component>
@@ -165,25 +165,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="527" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603949005694" />
-    <state width="1180" height="274" key="GridCell.Tab.0.bottom" timestamp="1604415141053">
+    <state width="1180" height="274" key="GridCell.Tab.0.bottom" timestamp="1604504791684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="274" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604415141053" />
-    <state width="1180" height="274" key="GridCell.Tab.0.center" timestamp="1604415141052">
+    <state width="1180" height="274" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604504791684" />
+    <state width="1180" height="274" key="GridCell.Tab.0.center" timestamp="1604504791684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="274" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604415141052" />
-    <state width="1180" height="274" key="GridCell.Tab.0.left" timestamp="1604415141052">
+    <state width="1180" height="274" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604504791684" />
+    <state width="1180" height="274" key="GridCell.Tab.0.left" timestamp="1604504791684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="274" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604415141052" />
-    <state width="1180" height="274" key="GridCell.Tab.0.right" timestamp="1604415141053">
+    <state width="1180" height="274" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604504791684" />
+    <state width="1180" height="274" key="GridCell.Tab.0.right" timestamp="1604504791684">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="274" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604415141053" />
-    <state x="248" y="9" key="SettingsEditor" timestamp="1604400304957">
+    <state width="1180" height="274" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604504791684" />
+    <state x="248" y="9" key="SettingsEditor" timestamp="1604502654474">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="248" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604400304957" />
+    <state x="248" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604502654474" />
   </component>
 </project>
