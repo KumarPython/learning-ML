@@ -24,7 +24,7 @@ final=df.drop(['company', 'job', 'degree', 'degreele'], axis=1)
 print(final)
 
 # Final X and y
-X=final.drop('salary_more_then_100k ',axis=1)
+X=final.drop('salary_more_then_100k ', axis=1)
 y=final['salary_more_then_100k ']
 
 # Train/Fit model
