@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Unit Test" />
         <option value="Python Script" />
       </list>
     </option>
@@ -25,16 +26,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\learning-ML\CodeBasics" />
       <recent name="D:\GitHub\learning-ML\Kaggle\Introduction to ML" />
       <recent name="D:\GitHub\learning-ML\Kaggle" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16.Hyper parameter Tuning (GridSearchCV)">
-    <configuration name="12. K Fold Cross Validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Rough">
+    <configuration name="P1-BangaloreHomePricePrediction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/12. K Fold Cross Validation.py" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\learning-ML\CodeBasics\P1-BangaloreHomePricePrediction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -55,7 +58,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13.K Means Clustering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Project1_Part 3-Feature Engineering" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +70,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/13.K Means Clustering.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/Project1_Part 3-Feature Engineering.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14. Naive Bayes Part 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Project1_Part2_Data Cleaning (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/14. Naive Bayes Part 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/Project1_Part2_Data Cleaning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15. Naive Bayes Part 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Project1_Part2_Data Cleaning" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/15. Naive Bayes Part 2.py" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\learning-ML\CodeBasics\Project1_Part2_Data Cleaning.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16.Hyper parameter Tuning (GridSearchCV)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Rough" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learning-ML" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/16.Hyper parameter Tuning (GridSearchCV).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeBasics/Rough.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.16.Hyper parameter Tuning (GridSearchCV)" />
-        <item itemvalue="Python.15. Naive Bayes Part 2" />
-        <item itemvalue="Python.14. Naive Bayes Part 1" />
-        <item itemvalue="Python.13.K Means Clustering" />
-        <item itemvalue="Python.12. K Fold Cross Validation" />
+        <item itemvalue="Python.Rough" />
+        <item itemvalue="Python.P1-BangaloreHomePricePrediction" />
+        <item itemvalue="Python.Project1_Part2_Data Cleaning (1)" />
+        <item itemvalue="Python.Project1_Part 3-Feature Engineering" />
+        <item itemvalue="Python.Project1_Part2_Data Cleaning" />
       </list>
     </recent_temporary>
   </component>
@@ -161,26 +164,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="505" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1605089893400">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="505" y="234" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1605089893400" />
     <state x="527" y="119" key="FileChooserDialogImpl" timestamp="1603949005694">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="527" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603949005694" />
-    <state width="1180" height="274" key="GridCell.Tab.0.bottom" timestamp="1604751113035">
+    <state width="1180" height="227" key="GridCell.Tab.0.bottom" timestamp="1605191954592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="274" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604751113035" />
-    <state width="1180" height="274" key="GridCell.Tab.0.center" timestamp="1604751113035">
+    <state width="1180" height="227" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605191954592" />
+    <state width="1180" height="227" key="GridCell.Tab.0.center" timestamp="1605191954592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="274" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604751113035" />
-    <state width="1180" height="274" key="GridCell.Tab.0.left" timestamp="1604751113035">
+    <state width="1180" height="227" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605191954592" />
+    <state width="1180" height="227" key="GridCell.Tab.0.left" timestamp="1605191954592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="274" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604751113035" />
-    <state width="1180" height="274" key="GridCell.Tab.0.right" timestamp="1604751113035">
+    <state width="1180" height="227" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605191954592" />
+    <state width="1180" height="227" key="GridCell.Tab.0.right" timestamp="1605191954592">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1180" height="274" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604751113035" />
+    <state width="1180" height="227" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605191954592" />
     <state x="248" y="9" key="SettingsEditor" timestamp="1604749407600">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
