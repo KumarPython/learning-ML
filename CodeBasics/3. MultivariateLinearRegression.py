@@ -9,7 +9,7 @@ import numpy as np
 from sklearn import linear_model
 from word2number import w2n
 
-# Importing data on to Pandas Dataframes
+# Importing data on to 3. Pandas Dataframes
 df=pd.read_csv('hiring.csv')
 df
 

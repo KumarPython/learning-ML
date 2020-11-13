@@ -8,7 +8,7 @@ import pandas as pd
 import numpy as np
 import matplotlib as plt
 from sklearn import linear_model
-# Importing data on to Pandas Dataframes
+# Importing data on to 3. Pandas Dataframes
 df=pd.read_csv('canada_per_capita_income.csv')
 df
 
