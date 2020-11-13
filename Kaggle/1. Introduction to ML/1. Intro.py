@@ -1,4 +1,4 @@
-# The most important part of the Pandas library is the DataFrame.
+# The most important part of the 3. Pandas library is the DataFrame.
 # A DataFrame holds the type of data you might think of as a table.
 # This is similar to a sheet in Excel, or a table in a SQL database.
 import pandas as pd

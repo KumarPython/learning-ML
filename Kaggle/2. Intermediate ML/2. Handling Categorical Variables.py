@@ -29,6 +29,11 @@
 
 # 3) One-Hot Encoding - One-hot encoding creates new columns indicating the presence
                         # (or absence) of each possible value in the original data.
+                        #We set handle_unknown='ignore' to avoid errors when the
+                        # validation data contains classes that aren't represented in
+                        # the training data, and
+                        # setting sparse=False ensures that the encoded columns are
+                        # returned as a numpy array (instead of a sparse matrix).
                         from sklearn.preprocessing import OneHotEncoder
 
                         # Apply one-hot encoder to each column with categorical data
@@ -50,3 +55,10 @@
 
                         print("MAE from Approach 3 (One-Hot Encoding):")
                         print(score_dataset(OH_X_train, OH_X_valid, y_train, y_valid))
+
+
+# In contrast to label encoding, one-hot encoding does not assume an ordering of
+# the categories. Thus, you can expect this approach to work particularly well if
+# there is no clear ordering in the categorical data (e.g., "Red" is neither more
+# nor less than "Yellow"). We refer to categorical variables without an intrinsic
+# ranking as nominal variables.
