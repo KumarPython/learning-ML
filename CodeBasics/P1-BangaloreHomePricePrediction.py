@@ -67,15 +67,14 @@ df=pd.concat([df,df1,df2,df3],axis=1)
 # To avoid DUMMY TRAP drop one dummy column each
 X=df.drop(['availability','location', 'area_type','other','Ready To Move','Super built-up  1rea'], axis=1)
 y=df.price
-X.to_csv('P1.csv', index=False)
 
 # Train Test Split.By Default the split is random. It gives 4 outputs with 2 inputs.
 from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.25)
 
 # Create and fit  the Model
-from sklearn.linear_model import LinearRegression
-model=LinearRegression()
+from xgboost import XGBRegressor
+model=XGBRegressor(n_estimators=500,early_stopping_rounds=5)
 
 #Fit the model
 model.fit(X_train,y_train)
@@ -86,4 +85,15 @@ pre=model.predict(X_test)
 #Scoring the accuracy of the model
 sco=model.score(X_test,y_test)
 print(sco)
+
+# Saving the Trained Model
+import pickle
+with open('BengaluruHomePricePredictionModel_Pickle','wb') as f:
+    pickle.dump(model,f)
+
+# The columns data columns are important. We need to save them also
+import json
+columns={'data_column': [col.lower() for col in X.columns]}
+with open('Columns.JSON','w') as f:
+    f.write(json.dumps(columns))
 
