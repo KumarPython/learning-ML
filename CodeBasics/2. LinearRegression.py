@@ -59,7 +59,3 @@ plt.pyplot.plot(df.year,reg.predict(df[['year']]),color='blue')
 
 
 # In[ ]:
-
-
-
-

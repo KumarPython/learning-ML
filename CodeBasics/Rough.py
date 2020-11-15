@@ -1,3 +1,6 @@
+import re
+
+
 def range_to_average(x):
     min_max =str(x).split('-')
     convert=str(x).split('Sq. ')
@@ -12,12 +15,10 @@ def range_to_average(x):
         return float(convert[0]) * 9
 
     elif len(x) >2:
-        num=int(''.join(filter(str.isdigit, 'x')))
-
-        return num
-
+        num=re.findall(r'\d+', x)
+        return float(num[0])
     else:
-        return x
+        return float(x)
 
 
-print(range_to_average('24Guntha'))
+# print(range_to_average('24Ghjnnjnj65'))
