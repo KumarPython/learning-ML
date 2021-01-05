@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f76e72f0-1219-4093-ab48-103b65f92264" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4. RegularizedLogisticRegression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5. One-vs-allClassification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBasics/BengaluruHomePricePredictionModel_Pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBasics/Columns.JSON" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBasics/P1-BangaloreHomePricePrediction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBasics/P1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeBasics/Rough.py" beforeDir="false" />
-    </list>
+    <list default="true" id="f76e72f0-1219-4093-ab48-103b65f92264" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
